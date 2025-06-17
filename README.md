@@ -108,7 +108,8 @@ prediction = model.predict(img)
 
 ## 🤝 Contributors
 
-* **Yash Banjare** – [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+* **Yash Banjare** – [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-banjare-199b76264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [GitHub](https://github.com/yashkumar002)
+* **Kishan Kanha** – [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kishan-kanha-patel-1206a0338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [GitHub](https://github.com/kanhapatel07)
 
 ## 📜 License
 
@@ -121,6 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 ---
-
-Would you like me to save this as a `.md` file and export it with your project files (e.g., ZIP)? Or tailor it with actual accuracy metrics and dataset name you used in your notebook?
+banjareyash04@gmail.com
 ```
