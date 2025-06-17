@@ -100,8 +100,8 @@ prediction = model.predict(img)
 * Visualized training vs. validation loss and accuracy
 * Confusion matrix and detailed classification report generated
 
-![Accuracy & Loss Graph](assets/accuracy_graph.png)
-![Confusion Matrix](assets/confusion_matrix.png)
+![Accuracy & Loss Graph](https://github.com/yashkumar002/Image-Classification-System/blob/main/Graph%20for%20%20Accuracy%20and%20loss.png)
+
 
 ## 🧪 Sample Use Cases
 
