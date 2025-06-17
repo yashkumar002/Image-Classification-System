@@ -5,6 +5,16 @@
 
 A powerful and efficient Image Classification System built using Python and Machine Learning libraries. This project demonstrates how to classify images into various categories using a convolutional neural network (CNN) and relevant data preprocessing, training, and evaluation techniques.
 
+
+## 📽️ Demo Video
+
+Watch a full walkthrough of the Image Classification System, including dataset loading, model training, and live predictions:
+
+[![Watch on YouTube](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://www.youtube.com/watch?v=abc123XYZ)
+
+📌 *Click the thumbnail or link above to watch the demo on YouTube.*
+
+
 ## 📌 Project Overview
 
 The **Image Classification System** is designed to recognize and categorize images from a dataset into predefined classes. It leverages deep learning frameworks such as TensorFlow/Keras and uses standard datasets or custom datasets (like CIFAR-10, MNIST, or a user-provided image set) to train and validate the model.
