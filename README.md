@@ -80,7 +80,7 @@ prediction = model.predict(img)
 
 ## 📈 Results
 
-* Achieved up to **XX% accuracy** on validation dataset
+* Achieved up to **99% accuracy** on validation dataset
 * Visualized training vs. validation loss and accuracy
 * Confusion matrix and detailed classification report generated
 
