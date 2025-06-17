@@ -108,8 +108,8 @@ prediction = model.predict(img)
 
 ## 🤝 Contributors
 
-* **Yash Banjare** – [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-banjare-199b76264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [GitHub](https://github.com/yashkumar002)
-* **Kishan Kanha** – [LinkedIn]((https://www.linkedin.com/in/kishan-kanha-patel-1206a0338) | [GitHub](https://github.com/kanhapatel07)
+* **Yash Banjare** – [LinkedIn](https://www.linkedin.com/in/yash-banjare-199b76264) | [GitHub](https://github.com/yashkumar002)
+* **Kishan Kanha** – [LinkedIn](https://www.linkedin.com/in/kishan-kanha-patel-1206a0338) | [GitHub](https://github.com/kanhapatel07)
 
 ## 📜 License
 
