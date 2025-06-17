@@ -10,7 +10,7 @@ A powerful and efficient Image Classification System built using Python and Mach
 
 Watch a full walkthrough of the Image Classification System, including dataset loading, model training, and live predictions:
 
-[![Watch on YouTube](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://www.youtube.com/watch?v=abc123XYZ)
+[![Watch on YouTube](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://youtu.be/62DfH5a81Jk?si=iaWLOPM0jChFh2lu)
 
 📌 *Click the thumbnail or link above to watch the demo on YouTube.*
 
