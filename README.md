@@ -57,12 +57,18 @@ You can use any image classification dataset. To use a custom dataset, ensure it
 
 ```
 /dataset/
-    /class_1/
+    /test/
         img1.jpg
         img2.jpg
-    /class_2/
+        ------
+    /validation/
         img1.jpg
         img2.jpg
+        ------
+    /train/
+        img1.jpg
+        img2.jpg
+        ------
 ```
 
 ### 🧮 Training the Model
@@ -94,7 +100,7 @@ prediction = model.predict(img)
 * Visualized training vs. validation loss and accuracy
 * Confusion matrix and detailed classification report generated
 
-![Accuracy Graph](assets/accuracy_graph.png)
+![Accuracy & Loss Graph](assets/accuracy_graph.png)
 ![Confusion Matrix](assets/confusion_matrix.png)
 
 ## 🧪 Sample Use Cases
