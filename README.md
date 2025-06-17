@@ -36,7 +36,7 @@ The **Image Classification System** is designed to recognize and categorize imag
 Clone the repository and install required packages:
 
 ```bash
-git clone https://github.com/yourusername/image-classification-system.git
+git clone [https://github.com/yourusername/image-classification-system.git](https://github.com/yashkumar002/Image-Classification-System)
 cd image-classification-system
 pip install -r requirements.txt
 ````
