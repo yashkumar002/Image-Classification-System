@@ -114,11 +114,25 @@ prediction = model.predict(img)
 
 ```
 📁 image-classification-system/
-├── 📓 Image_Class_Model-checkpoint.ipynb
-├── 📁 dataset/
-├── 📁 models/
+├── 📁 Project Code/
+      ├── 📁 Fruits_Vegetables/
+            ├── 📁 test/
+                  ├── 📓image_1
+                  ├── 📓image_2
+                  ------
+            ├── 📁 train/
+                  ├── 📓image_1
+                  ├── 📓image_2
+                  ------
+            ├── 📁 validation/
+                  ├── 📓image_1
+                  ├── 📓image_2
+                  ------
+      ├── 📁 ipynb_checkpoints/
+            ├── 📓 Image_Class_Model-checkpoint.ipynb
+      ├── 📄 image_classify.keras
+├── 📁 Otherfiles/
 ├── 📁 outputs/
-├── 📄 requirements.txt
 └── 📄 README.md
 ```
 
