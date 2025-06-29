@@ -152,5 +152,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 ---
-banjareyash04@gmail.com
+banjareyash4@gmail.com
 ```
